@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=582C83&height=180&section=header&text=Matheus+Fonseca&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0:00796B,100:004D40&height=180&section=header&text=Matheus+Fonseca&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=582C83&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Meu+Nome+É+Matheus+Fonseca;Sou+Desenvolvedor+Back-end;Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00796B&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Meu+Nome+É+Matheus+Fonseca;Sou+Desenvolvedor+Back-end;Bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 <div>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusfonsecak&show_icons=true&title_color=fff&text_color=582C83&bg_color=0d1117"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusfonsecak&show_icons=true&title_color=fff&text_color=00796B&bg_color=0d1117"/>
 </a>
 <a >
   <img width="355" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfonsecak&layout=compact&title_color=fff&bg_color=0d1117"/>
@@ -14,7 +14,7 @@
 
 <br>
 
-![Seu Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=matheusfonsecak&bg_color=0a0c10&color=582C83&line=582C83&point=24292e&area=true&hide_border=true)
+![Seu Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=matheusfonsecak&bg_color=0a0c10&color=00796B&line=00796B&point=24292e&area=true&hide_border=true)
 
 
 ### Habilidades Principais:
@@ -60,4 +60,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=Instagram&labelColor=0D1117)](https://www.instagram.com/rochatheuss)
 [![Spotify](https://img.shields.io/badge/Spotify-0D1117?style=for-the-badge&logo=Spotify&labelColor=0D1117)](https://open.spotify.com/user/31fpuvvgvagi75ukuqxb636j2ebi)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=582C83&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0:004D40,100:00796B&height=120&section=footer"/>
